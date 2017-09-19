@@ -1,0 +1,214 @@
+@media (min-width: 1300px) and (max-width: 1599px) {
+  /*html,body{
+  	font-size:0.778rem;
+  }*/
+}
+@media (min-width: 1200px) and (max-width: 1299px) {
+  /*html,body{
+  	font-size:0.722rem;
+  }*/
+}
+/*@media (max-width: 450px)  {*/
+@media (max-width: 991px) {
+  /* line 40, ../sass/responsive.scss */
+  p {
+    font-size: 20px;
+  }
+
+  /* line 44, ../sass/responsive.scss */
+  .section-1 .col.col-left,
+  .section-1 .col.col-right {
+    width: 100%;
+    display: block;
+    float: left;
+  }
+
+  /* line 54, ../sass/responsive.scss */
+  .section-1 .col.col-right {
+    width: 80%;
+    float: right;
+    padding-top: 84px;
+  }
+  /* line 58, ../sass/responsive.scss */
+  .section-1 .col.col-right article {
+    padding-right: 15px;
+  }
+  /* line 60, ../sass/responsive.scss */
+  .section-1 .col.col-right article img {
+    width: 137px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+  }
+  /* line 65, ../sass/responsive.scss */
+  .section-1 .col.col-right article p {
+    font-size: 13px;
+  }
+
+  /* line 71, ../sass/responsive.scss */
+  .section-1 .mascara-listra {
+    top: 74px;
+  }
+
+  /* line 76, ../sass/responsive.scss */
+  .section-1 .redes-sociais {
+    width: 50%;
+    float: left;
+  }
+
+  /* line 80, ../sass/responsive.scss */
+  .section-1 .logo {
+    width: 50%;
+    float: left;
+  }
+
+  /* line 84, ../sass/responsive.scss */
+  .section-1 .foto-1 {
+    max-width: 71%;
+  }
+
+  /* line 88, ../sass/responsive.scss */
+  .section-1 .col.col-right .bottom {
+    position: relative;
+  }
+
+  /* line 92, ../sass/responsive.scss */
+  .section-2 {
+    height: auto;
+    padding-bottom: 20px;
+  }
+
+  /* line 99, ../sass/responsive.scss */
+  .section-3:before {
+    display: none;
+  }
+
+  /* line 105, ../sass/responsive.scss */
+  .section-4 {
+    height: auto;
+  }
+  /* line 106, ../sass/responsive.scss */
+  .section-4:before {
+    display: none;
+  }
+  /* line 110, ../sass/responsive.scss */
+  .section-4 .col {
+    width: 100%;
+  }
+  /* line 113, ../sass/responsive.scss */
+  .section-4 .col .bloco img {
+    position: relative;
+  }
+  /* line 118, ../sass/responsive.scss */
+  .section-4 .col.left .bloco-1 {
+    height: auto;
+  }
+
+  /* line 127, ../sass/responsive.scss */
+  .section-7 .img-1 {
+    top: 43.333333333333336vw;
+    z-index: 1;
+    left: 13.333333333333334vw;
+    width: 39.629629629629626vw;
+    height: 18.51851851851852vw;
+    background: #00415d;
+    position: absolute;
+  }
+  /* line 136, ../sass/responsive.scss */
+  .section-7 .img-2 {
+    width: 100%;
+    position: absolute;
+    top: 53.888888888888886vw;
+    left: 0;
+    z-index: 2;
+  }
+  /* line 143, ../sass/responsive.scss */
+  .section-7 .img-3 {
+    width: 36.388888888888886vw;
+    position: absolute;
+    top: 27.59259259259259vw;
+    z-index: 3;
+    right: 18.333333333333332vw;
+  }
+  /* line 151, ../sass/responsive.scss */
+  .section-7 .img-4 {
+    width: 32.592592592592595vw;
+    position: absolute;
+    top: 107.03703703703704vw;
+    left: 8.148148148148149vw;
+    z-index: 3;
+  }
+
+  /* line 163, ../sass/responsive.scss */
+  .section-8 .image {
+    width: 100%;
+    float: left;
+  }
+  /* line 167, ../sass/responsive.scss */
+  .section-8 .img-insta-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
+  /* line 173, ../sass/responsive.scss */
+  .section-8 .img-2 {
+    position: absolute;
+    top: -10.37037037037037vw;
+    width: 29.074074074074073vw;
+    right: 30.555555555555557vw;
+    z-index: 3;
+  }
+  /* line 180, ../sass/responsive.scss */
+  .section-8 .img-3 {
+    position: absolute;
+    top: 83.704vw;
+    width: 43.333333333333336vw;
+    left: 3.425925925925926vw;
+    z-index: 3;
+  }
+  /* line 187, ../sass/responsive.scss */
+  .section-8 .img-4 {
+    position: absolute;
+    top: 81.48148148148148vw;
+    width: 30.555555555555557vw;
+    right: 7.777777777777778vw;
+    z-index: 3;
+  }
+
+  /* line 201, ../sass/responsive.scss */
+  .section-9 .image {
+    width: 100%;
+    float: left;
+  }
+  /* line 205, ../sass/responsive.scss */
+  .section-9 .img-insta-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
+  /* line 211, ../sass/responsive.scss */
+  .section-9 .img-2 {
+    position: absolute;
+    top: 84.37vw;
+    width: 51.2962962962963vw;
+    left: 12.222222222222221vw;
+    z-index: 1;
+    background: #21592b;
+    height: 25.925925925925927vw;
+  }
+  /* line 220, ../sass/responsive.scss */
+  .section-9 .img-3 {
+    position: absolute;
+    top: 78.70370370370371vw;
+    width: 43.333333333333336vw;
+    right: 26.666666666666668vw;
+    z-index: 3;
+  }
+}
+@media (min-width: 481px) and (max-width: 991px) {
+  /* line 238, ../sass/responsive.scss */
+  .section-1 .col.col-right {
+    width: 70%;
+  }
+}

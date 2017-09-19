@@ -1,0 +1,242 @@
+
+@media (min-width:1600px)   { 
+	
+}
+@media (min-width: 1300px) and (max-width: 1599px)  {
+	/*html,body{
+		font-size:0.778rem;
+	}*/
+}
+
+@media (min-width: 1200px) and (max-width: 1299px)  { 
+	/*html,body{
+		font-size:0.722rem;
+	}*/
+}
+
+@media (min-width: 992px) and (max-width:1199px){ 	
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {		
+	
+
+}
+
+@media (min-width: 361px) and (max-width: 480px) {	 
+	
+
+}
+
+
+/*@media (max-width: 450px)  {*/
+@media (max-width: 991px)  {
+
+	p{
+		font-size:20px;
+	}
+
+	.section-1 .col.col-left,
+	.section-1 .col.col-right{
+		width:100%;
+		display:block;
+		float:left;
+	}
+
+	.section-1 .col.col-left{
+		
+	}
+	.section-1 .col.col-right{	
+		width:80%;
+		float:right;
+		padding-top:84px;
+		article{
+			padding-right:15px;
+			img{
+				width:137px;
+				margin-left:15px;
+				margin-bottom:8px;
+			}
+			p{
+				font-size:13px;
+			}
+		}
+	}
+
+	.section-1 .mascara-listra{
+		top:74px;
+
+	}
+
+	.section-1 .redes-sociais{
+		width:50%;
+		float:left;
+	}
+	.section-1 .logo{
+		width:50%;
+		float:left;
+	}
+	.section-1 .foto-1{
+		max-width:71%;
+	}
+
+	.section-1 .col.col-right .bottom{
+		position:relative;
+	}
+
+	.section-2{
+		height: auto;
+		padding-bottom:20px;
+	}
+
+
+	.section-3{
+		&:before{
+			display:none;
+		};
+	}
+
+
+	.section-4{
+		&:before{
+			display:none;
+		};
+	  height:auto;
+	  .col{
+	  	width:100%;
+	  	.bloco{
+	  		img{
+	  			position: relative;
+	  		}
+	  	}
+	  }
+	  .col.left .bloco-1{
+	  	height: auto;
+	  }
+	}
+
+
+
+
+.section-7{
+	.img-1{
+	    top: 43.333333333333336vw;	   
+	    z-index: 1;
+	    left: 13.333333333333334vw;	   
+	    width: 39.629629629629626vw;
+	    height:18.51851851851852vw;	    
+	    background: #00415d;
+	    position: absolute;
+	}
+	.img-2{
+	    width:100%;
+	    position: absolute;
+	    top:53.888888888888886vw;
+	    left:0;
+	    z-index:2;
+	}
+	.img-3{
+	    width:36.388888888888886vw;
+	    position: absolute;
+	    top:27.59259259259259vw;
+	    z-index:3;
+	    right:18.333333333333332vw;
+	}
+
+	.img-4{
+	    width:32.592592592592595vw;
+	    position: absolute;
+	    top: 107.03703703703704vw;
+	    left:8.148148148148149vw;
+	    z-index:3;
+	  
+	}
+}
+
+.section-8{		
+
+	.image{
+		width:100%;
+		float:left;
+	}
+	.img-insta-1{
+		position:absolute;
+		top:0;
+		left:0;
+		z-index:2;
+	}
+	.img-2{
+		position:absolute;
+		top:-10.37037037037037vw;
+		width:29.074074074074073vw;
+		right:30.555555555555557vw;
+		z-index:3;
+	}
+	.img-3{
+		position:absolute;
+		top:83.704vw;
+		width:43.333333333333336vw;
+		left:3.425925925925926vw;
+		z-index:3;
+	}
+	.img-4{
+		position:absolute;
+		top:81.48148148148148vw;
+		width:30.555555555555557vw;
+		right:7.777777777777778vw;
+		z-index:3;
+	}
+}
+
+
+
+
+.section-9{					
+	
+	.image{
+		width:100%;
+		float:left;
+	}
+	.img-insta-2{
+		position:absolute;
+		top:0;
+		left:0;
+		z-index:2;
+	}
+	.img-2{
+		position:absolute;
+		top:84.37vw;
+		width:51.2962962962963vw;
+		left:12.222222222222221vw;
+		z-index:1;
+		background:#21592b;
+		height:25.925925925925927vw;
+	}
+	.img-3{
+		position:absolute;
+		top:78.70370370370371vw;
+		width:43.333333333333336vw;
+		right:26.666666666666668vw;
+		z-index:3;
+	}
+
+
+
+	}
+}
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 991px) {	
+	.section-1 .col.col-right{
+		width:70%;
+	}
+
+}
